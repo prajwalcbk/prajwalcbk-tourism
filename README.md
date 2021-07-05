@@ -1,5 +1,6 @@
 ## MERN STACK WEBSITE
-	Simple webiste constructed using mern stack Mongodb Express React and Nodejs...
+Simple webiste constructed using mern stack Mongodb Express React and Nodejs...
+Where all Users can search Historical Places by location or name and add thier review about that place or other users can view reviews. 
 
 ## TOURISM REVIEWS
 	Users can view historical Places and reviews about Places
