@@ -5,7 +5,7 @@ Where all Users can search Historical Places by location or name and add thier r
 
 
 
-# INSTALLATION AND RUNNING LOCALLY
+### INSTALLATION AND RUNNING LOCALLY
 	git clone https://github.com/prajwalcbk/tourism
 
 	cd tourism
@@ -22,12 +22,12 @@ Where all Users can search Historical Places by location or name and add thier r
 
 	cd ..
 
-# RUNNING LOCALLY
+### RUNNING LOCALLY
 	npm run dev
 
 
 
-# BUILDING DOCKER IMAGES FOR FRONTEND AND BACKEND
+### BUILDING DOCKER IMAGES FOR FRONTEND AND BACKEND
 	git clone https://github.com/prajwalcbk/tourism
 
 	cd tourism/frontend
@@ -38,22 +38,22 @@ Where all Users can search Historical Places by location or name and add thier r
 
 	docker build -t 'node-app'
 
-# RUNNING CONTAINER USING IMAGES AND DOCKER COMPOSE
+### RUNNING CONTAINER USING IMAGES AND DOCKER COMPOSE
 
 	docker-compose up
 
-# BUILDING SINGLE IMAGE FOR BACKEND AND FRONTEND
+### BUILDING SINGLE IMAGE FOR BACKEND AND FRONTEND
 
 	cd tourism
 
 	docker build -t 'tourism-reviews' .
 
-# RUN SINGLE IMAGE
+### RUN SINGLE IMAGE
 
 	docker run -p 5000:5000 'tourism-reviews
 
 
-# SCREENSHOTS
+### SCREENSHOTS
 ![alt text](https://github.com/prajwalcbk/tourism/blob/main/images/Screenshot%20from%202021-07-05%2012-36-57.png)
 
 
